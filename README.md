@@ -14,7 +14,7 @@
 
 ---
 
-![image description](PASTE_IMAGE_LINK_HERE)
+![image description](https://raw.githubusercontent.com/PierrotWasTaken/PierrotWasTaken/refs/heads/main/image2.png)
 
 <!--
 **PierrotWasTaken/PierrotWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
