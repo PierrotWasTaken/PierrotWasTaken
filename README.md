@@ -8,8 +8,9 @@
 <p align="center">
   
 **Ways to reach me...**
-Discord: .betrayed1x1x1x1.
-Roblox: Infin_ixx
+- Discord: .betrayed1x1x1x1.
+- Roblox: Infin_ixx
+
 
 **Pronouns:** he/him
 **A Random Lovely Fact:** i ate a bee
