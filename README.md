@@ -1,13 +1,20 @@
-## Hello, my lord/lady. ♥
+## Hello, my lord/lady~ ♥︎ ♥︎ 
 
 ### I am a full-stack Luau programmar in the roblox platform.
-### I'm currently working on a game called condemnation in roblox by sodium studios
-### Ways to reach me
+### I'm currently working on a game called condemnation in roblox by sodium studios.
+
+---
+
+### Ways to reach me...
 - Discord: .betrayed1x1x1x1.
 - Roblox: Infin_ixx
 
 ### Pronouns: he/him
-### Fun fact: i ate a bee
+### random fact with a unbalanced update-rate: hi 
+
+---
+
+![image description](PASTE_IMAGE_LINK_HERE)
 
 <!--
 **PierrotWasTaken/PierrotWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
