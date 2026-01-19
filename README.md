@@ -10,7 +10,7 @@
 - Roblox: Infin_ixx
 
 ### Pronouns: he/him
-### random fact with a unbalanced update-rate: hi 
+### A Random Lovely Fact: hi 
 
 ---
 
