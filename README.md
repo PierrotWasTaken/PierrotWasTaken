@@ -1,20 +1,26 @@
-## Hello, my lord/lady~ ♥︎ ♥︎ 
+# <p align="center">Hello, my lord/lady~ ♥︎ ♥︎</p>
 
-### I am a full-stack Luau programmar in the roblox platform.
-### I'm currently working on a game called condemnation in roblox by sodium studios.
-
----
-
-### Ways to reach me...
-- Discord: .betrayed1x1x1x1.
-- Roblox: Infin_ixx
-
-### Pronouns: he/him
-### A Random Lovely Fact: hi 
+### <p align="center">I am a full-stack Luau programmar in the roblox platform.</p>
+### <p align="center">I'm currently working on a game called condemnation in roblox by sodium studios.</p>
 
 ---
 
-![image description](https://raw.githubusercontent.com/PierrotWasTaken/PierrotWasTaken/refs/heads/main/image2.png)
+<p align="center">
+  
+**Ways to reach me...**
+Discord: .betrayed1x1x1x1.
+Roblox: Infin_ixx
+
+**Pronouns:** he/him
+**A Random Lovely Fact:** i ate a bee
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PierrotWasTaken/PierrotWasTaken/refs/heads/main/image2.png" />
+</p>
 
 <!--
 **PierrotWasTaken/PierrotWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
