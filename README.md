@@ -6,7 +6,7 @@
 * **Pronouns:** He/Him
 * **Birthday:** March 17
 * **Background:** im a retired roblox exploiter. I stop exploiting after the byfron update, and started developing roughly 5 months before the byfron update. im a full stack roblox developer now.
-* **random quote of a unbalanced schedule:** "i ate a bee"
+* **random quote of a unbalanced schedule:** "These devs are so hard at work, the devs at question. WHO DELETED THE BRIDGE??!!! how do install studio roblox."
 
 ---
 
