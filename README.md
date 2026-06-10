@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my lord..</h1>
+<h1 align="center">hey, errr... uhhh.. i farted</h1>
 
 ---
 
@@ -17,7 +17,7 @@
 | <img src="https://raw.githubusercontent.com/PierrotWasTaken/profile-readme/refs/heads/main/imgs/luau.png" width="24" align="center" alt="Luau"> **Luau** | Pretty much Flunet in it |
 | <img src="https://raw.githubusercontent.com/PierrotWasTaken/profile-readme/refs/heads/main/imgs/nodejs.png" width="24" align="center" alt="Node.js"> **Node.js** | I plan to learn this someday so  I can create Discord bots and such. |
 | <img src="https://raw.githubusercontent.com/PierrotWasTaken/profile-readme/refs/heads/main/imgs/py.png" width="24" align="center" alt="Python"> **Python** | I don't plan to learn this really. |
-| <img src="https://raw.githubusercontent.com/PierrotWasTaken/profile-readme/refs/heads/main/imgs/py.png" width="24" align="center" alt="Java"> **Java** | Learning Java because I want to develop minecraft mods. |
+| <img src="https://raw.githubusercontent.com/PierrotWasTaken/profile-readme/refs/heads/main/imgs/jv.png" width="24" align="center" alt="Java"> **Java** | Learning Java because I want to develop minecraft mods. |
 
 ---
 
