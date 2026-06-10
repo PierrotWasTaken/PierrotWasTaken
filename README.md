@@ -10,7 +10,7 @@
 
 ---
 
-### what i code in
+### Coding Languanges I Plan to or can code.
 
 | Language/Tech | Notes |
 | :--- | :--- |
